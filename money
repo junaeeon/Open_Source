@@ -1,0 +1,2 @@
+money=input('Today\'s my bank balance : ')
+print('After lunch, my bank account balance is ' +str(int(money)-12000)+'.')
